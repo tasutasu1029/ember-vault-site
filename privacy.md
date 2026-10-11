@@ -34,7 +34,7 @@ iOS の設定で iCloud が有効な場合、セーブデータを同じ Apple �
 
 ## 連絡先
 
-https://github.com/tasutasu1029/ember-vault/issues
+https://github.com/tasutasu1029/ember-vault-site/issues
 
 ---
 
@@ -49,4 +49,4 @@ Ember Vault ("the app") does not collect personal information.
 - **iCloud:** if iCloud is enabled on your device, save data is synced through Apple's iCloud key-value storage. The developer cannot access it.
 - **Game Center:** leaderboards and achievements use Apple's Game Center. Scores are sent to Apple under Apple's privacy policy. The app is fully playable without signing in.
 - **Third parties:** none.
-- **Contact:** https://github.com/tasutasu1029/ember-vault/issues
+- **Contact:** https://github.com/tasutasu1029/ember-vault-site/issues
